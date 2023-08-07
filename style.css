@@ -1,0 +1,17 @@
+header {
+    background-color: #1b4685;
+    height: 125px;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.hamburger-wrapper a:hover {
+    border-bottom: 1px solid white;
+    
+}
+
+.active {
+    border-bottom: 1px solid white;
+}
